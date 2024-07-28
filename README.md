@@ -23,3 +23,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Tanishq665/Glucoma-Detection-usingDL.git
+
+2. **To run this peoject:**
+   change the dataset path where you saved the data(which i given in this)
+   and change the example XYX.png to your own image path
+   **Live Dataset: The dataset used in this project was collected from BHU patient data.**
